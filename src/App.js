@@ -11,6 +11,7 @@ function App() {
   b++;
 
   console.log('test', b)
+  console.log('test2')
 
   return (
     <div className="App">
