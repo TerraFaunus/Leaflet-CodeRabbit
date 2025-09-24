@@ -7,8 +7,11 @@ function App() {
     a++;
   }
 
-  console.log('test')
-  
+  const b = 1;
+  b++;
+
+  console.log('test', b)
+
   return (
     <div className="App">
       <header className="App-header">
